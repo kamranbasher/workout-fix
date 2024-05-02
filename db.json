@@ -1,319 +1,105 @@
-{
-  "data":[
-    {
-      "workout":"Workout One",
-      "sets":[
-        {
-          "name":"Set One",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Two",
-          "isCompleted": false
-        },
-        {
-          "name":"Set Three",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Four",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Two",
-      "sets":[
-        {
-          "name":"Set I",
-          "isCompleted": false
-        },
-        {
-          "name":"Set II",
-          "isCompleted": false
-        },
-        {
-          "name":"Set III",
-          "isCompleted": true
-        },
-        {
-          "name":"Set IV",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Three",
-      "sets":[
-        {
-          "name":"Set 1",
-          "isCompleted": true
-        },
-        {
-          "name":"Set 2",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 3",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 4",
-          "isCompleted": true
-        }
-      ]
-    },
-    {
-      "workout":"Workout Four",
-      "sets":[
-        {
-          "name":"Set One",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Two",
-          "isCompleted": false
-        },
-        {
-          "name":"Set Three",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Four",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Five",
-      "sets":[
-        {
-          "name":"Set I",
-          "isCompleted": false
-        },
-        {
-          "name":"Set II",
-          "isCompleted": false
-        },
-        {
-          "name":"Set III",
-          "isCompleted": true
-        },
-        {
-          "name":"Set IV",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Six",
-      "sets":[
-        {
-          "name":"Set 1",
-          "isCompleted": true
-        },
-        {
-          "name":"Set 2",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 3",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 4",
-          "isCompleted": true
-        }
-      ]
-    },
-    {
-      "workout":"Workout Seven",
-      "sets":[
-        {
-          "name":"Set One",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Two",
-          "isCompleted": false
-        },
-        {
-          "name":"Set Three",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Four",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Eight",
-      "sets":[
-        {
-          "name":"Set I",
-          "isCompleted": false
-        },
-        {
-          "name":"Set II",
-          "isCompleted": false
-        },
-        {
-          "name":"Set III",
-          "isCompleted": true
-        },
-        {
-          "name":"Set IV",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Nine",
-      "sets":[
-        {
-          "name":"Set 1",
-          "isCompleted": true
-        },
-        {
-          "name":"Set 2",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 3",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 4",
-          "isCompleted": true
-        }
-      ]
-    },
-    {
-      "workout":"Workout Ten",
-      "sets":[
-        {
-          "name":"Set One",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Two",
-          "isCompleted": false
-        },
-        {
-          "name":"Set Three",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Four",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Eleven",
-      "sets":[
-        {
-          "name":"Set I",
-          "isCompleted": false
-        },
-        {
-          "name":"Set II",
-          "isCompleted": false
-        },
-        {
-          "name":"Set III",
-          "isCompleted": true
-        },
-        {
-          "name":"Set IV",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Twelve",
-      "sets":[
-        {
-          "name":"Set 1",
-          "isCompleted": true
-        },
-        {
-          "name":"Set 2",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 3",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 4",
-          "isCompleted": true
-        }
-      ]
-    },
-    {
-      "workout":"Workout Thirteen",
-      "sets":[
-        {
-          "name":"Set One",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Two",
-          "isCompleted": false
-        },
-        {
-          "name":"Set Three",
-          "isCompleted": true
-        },
-        {
-          "name":"Set Four",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Fourteen",
-      "sets":[
-        {
-          "name":"Set I",
-          "isCompleted": false
-        },
-        {
-          "name":"Set II",
-          "isCompleted": false
-        },
-        {
-          "name":"Set III",
-          "isCompleted": true
-        },
-        {
-          "name":"Set IV",
-          "isCompleted": false
-        }
-      ]
-    },
-    {
-      "workout":"Workout Fifteen",
-      "sets":[
-        {
-          "name":"Set 1",
-          "isCompleted": true
-        },
-        {
-          "name":"Set 2",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 3",
-          "isCompleted": false
-        },
-        {
-          "name":"Set 4",
-          "isCompleted": true
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "workoutNumber": 1,
+    "sets": [
+      {"id": 1, "description": "10 minutes jogging", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 2,
+    "sets": [
+      {"id": 1, "description": "15 push-ups", "status": "completed"},
+      {"id": 2, "description": "10 pull-ups", "status": "pending"}
+    ]
+  },
+  {
+    "workoutNumber": 3,
+    "sets": [
+      {"id": 1, "description": "20 squats", "status": "completed"},
+      {"id": 2, "description": "30 sit-ups", "status": "completed"},
+      {"id": 3, "description": "15 lunges", "status": "pending"}
+    ]
+  },
+  {
+    "workoutNumber": 4,
+    "sets": [
+      {"id": 1, "description": "5 minutes stretching", "status": "completed"},
+      {"id": 2, "description": "10 minutes meditation", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 5,
+    "sets": [
+      {"id": 1, "description": "45 minutes cycling", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 6,
+    "sets": [
+      {"id": 1, "description": "5k run", "status": "completed"},
+      {"id": 2, "description": "Cool down", "status": "pending"}
+    ]
+  },
+  {
+    "workoutNumber": 7,
+    "sets": [
+      {"id": 1, "description": "Circuit training", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 8,
+    "sets": [
+      {"id": 1, "description": "yoga", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 9,
+    "sets": [
+      {"id": 1, "description": "jumping jacks", "status": "completed"},
+      {"id": 2, "description": "20 burpees", "status": "completed"},
+      {"id": 3, "description": "HIIT session", "status": "pending"}
+    ]
+  },
+  {
+    "workoutNumber": 10,
+    "sets": [
+      {"id": 1, "description": "Swimming laps", "status": "completed"},
+      {"id": 2, "description": "Diving practice", "status": "pending"},
+      {"id": 3, "description": "Water aerobics", "status": "completed"},
+      {"id": 4, "description": "Pool cool down", "status": "pending"}
+    ]
+  },
+  {
+    "workoutNumber": 11,
+    "sets": [
+      {"id": 1, "description": "spin class", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 12,
+    "sets": [
+      {"id": 1, "description": "Strength Legs", "status": "completed"},
+      {"id": 2, "description": "Strength Arms", "status": "pending"}
+    ]
+  },
+  {
+    "workoutNumber": 13,
+    "sets": [
+      {"id": 1, "description": "running", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 14,
+    "sets": [
+      {"id": 1, "description": "Treadmill run", "status": "completed"}
+    ]
+  },
+  {
+    "workoutNumber": 15,
+    "sets": [
+      {"id": 1, "description": "Warm-up", "status": "completed"},
+      {"id": 2, "description": "Main workout", "status": "completed"},
+      {"id": 3, "description": "Cool down", "status": "pending"}
+    ]
+  }
+]
